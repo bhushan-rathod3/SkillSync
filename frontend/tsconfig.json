@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./", // Set the base directory for imports
+    "paths": {
+      "@/*": ["src/*"] // Define the alias '@' to point to the 'src' folder
+    }
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
