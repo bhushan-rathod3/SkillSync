@@ -1,1 +1,0 @@
-export { FeaturesImages } from "./FeaturesImages";
