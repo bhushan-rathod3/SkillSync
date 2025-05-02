@@ -114,7 +114,7 @@ SkillSync is a comprehensive freelance collaboration platform that connects clie
 
 ## Entity Relationship Diagram
 
-[SkillSync ERD](https://drive.google.com/file/d/1hfFK7ZtaCHOjW2QRLrAPdAwx66gpb_Vm/view?usp=sharing)
+[SkillSync ERD](https://drive.google.com/file/d/1suL3YuUhg0eO1DooEu_rXhq4wEfSd_ej/view?usp=sharing)
 
 ### Core Entities
 
