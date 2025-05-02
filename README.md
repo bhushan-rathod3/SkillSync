@@ -2,6 +2,10 @@
 
 SkillSync is a comprehensive freelance collaboration platform that connects clients with skilled freelancers. The platform facilitates project posting, bidding, messaging, milestone tracking, and payment processing.
 
+## Demo Video
+
+![SkillSync Demo](https://drive.google.com/file/d/1hDB70cPfKyRu3Pxi704GB7LWrev-Z-L5/view?usp=sharing)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -23,7 +27,7 @@ SkillSync is a comprehensive freelance collaboration platform that connects clie
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/skillsync.git
+   git clone https://github.com/bhushan-rathod3/SkillSync.git
    cd skillsync
    ```
 
@@ -49,10 +53,10 @@ SkillSync is a comprehensive freelance collaboration platform that connects clie
    DB_DATABASE=skillsync
 
    # JWT Configuration
-    JWT_SECRET=secret_key
-    JWT_REFRESH_SECRET=refresh_secret_key
-    JWT_EXPIRATION=3600
-    JWT_REFRESH_EXPIRATION=604800
+   JWT_SECRET=secret_key
+   JWT_REFRESH_SECRET=refresh_secret_key
+   JWT_EXPIRATION=3600
+   JWT_REFRESH_EXPIRATION=604800
 
    # File Upload Configuration
    UPLOAD_DIRECTORY=./uploads
@@ -110,7 +114,7 @@ SkillSync is a comprehensive freelance collaboration platform that connects clie
 
 ## Entity Relationship Diagram
 
-![SkillSync ERD](https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID)
+![SkillSync ERD](https://drive.google.com/file/d/1suL3YuUhg0eO1DooEu_rXhq4wEfSd_ej/view?usp=drive_linkD)
 
 ### Core Entities
 
@@ -838,7 +842,3 @@ frontend/
 │   └── main.tsx       # Application entry point
 └── package.json
 ```
-
-## Demo Video
-
-[![SkillSync Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/YOUR_FILE_ID/view)
